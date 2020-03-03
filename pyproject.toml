@@ -1,0 +1,11 @@
+[tool]
+[tool.poetry]
+authors = ["Your Name <you@example.com>"]
+name = "root"
+version = "0.0.0"
+[tool.poetry.dependencies]
+beautifulsoup4 = "==4.8.1"
+flask = "==1.1.1"
+imagehash = "==4.0"
+pillow = "==6.2.0"
+python = "^3.7"

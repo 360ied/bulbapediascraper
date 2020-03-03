@@ -1,0 +1,4 @@
+ImageHash==4.0
+beautifulsoup4==4.8.1
+Pillow==6.2.0
+Flask==1.1.1
